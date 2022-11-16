@@ -1,4 +1,4 @@
-function part-list([string[]] $arr) {
+function part-list([string[]]$arr) {
     $solutionsNumber = $arr.Length - 1
     $out = ""
     foreach ($i in 1..$solutionsNumber) {
