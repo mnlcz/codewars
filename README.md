@@ -1,3 +1,3 @@
 # Codewars solutions
 
-Codewars katas solutions divided by difficulty.
+Katas divided by language and difficulty.
