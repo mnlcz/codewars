@@ -1,4 +1,5 @@
 ﻿namespace _7kyu;
+
 public static class MoneyMoneyMoney
 {
     public static int CalculateYears(double principal, double interest, double tax, double desiredPrincipal)
