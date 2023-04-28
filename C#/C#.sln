@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7kyu", "7kyu\7kyu.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8kyu", "8kyu\8kyu.csproj", "{0ACE45A6-F366-430D-8886-EAD2C4A3DDAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6kyu", "6kyu\6kyu.csproj", "{9014044C-29D6-490A-BD45-D326A37B177C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{0ACE45A6-F366-430D-8886-EAD2C4A3DDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ACE45A6-F366-430D-8886-EAD2C4A3DDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ACE45A6-F366-430D-8886-EAD2C4A3DDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9014044C-29D6-490A-BD45-D326A37B177C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9014044C-29D6-490A-BD45-D326A37B177C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9014044C-29D6-490A-BD45-D326A37B177C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9014044C-29D6-490A-BD45-D326A37B177C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
