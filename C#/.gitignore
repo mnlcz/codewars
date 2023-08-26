@@ -477,5 +477,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # Codewars personal ignores
-*.csproj
 Program.cs
